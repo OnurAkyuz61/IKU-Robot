@@ -6,4 +6,4 @@ The codes of the robot made by the IKU Asimov Technology Club are available here
 <br>
 
 ## :warning: Please Pay Attention Here!
-> Kodu düzgün bir şekilde çalıştırabilmeniz için WPILib kütüphanesinin kurulu olması gerekmektedir. Şuan yayınlanan son sürüm olan WPILib 2023.4.3 kullanılarak yazılmıştır. WPILib kütüphanesine <a href="https://github.com/wpilibsuite/allwpilib/releases">buradan</a> erişebilirsiniz. 
+> In order to run the code properly, the WPILib library must be installed. It was written using WPILib 2023.4.3, the latest version currently released. You can access the WPILib library <a href="https://github.com/wpilibsuite/allwpilib/releases">here</a>.
